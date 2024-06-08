@@ -1,2 +1,6 @@
 again learning git
+<<<<<<< HEAD
 added file by me
+=======
+the text file remove
+>>>>>>> branch3
