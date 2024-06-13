@@ -1,0 +1,13 @@
+again learning git
+
+git tutorial file
+<<<<<<< HEAD
+
+=======
+amit file here
+>>>>>>> one
+one line add and one commit
+added file by 
+the text file remove
+
+file add for c3
