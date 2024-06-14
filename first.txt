@@ -12,7 +12,11 @@ the text file remove
 
 file add for c3
 
+<<<<<<< HEAD
 git file 8 add
 
 
 file 8.txt
+=======
+git file 8 add
+>>>>>>> c3
